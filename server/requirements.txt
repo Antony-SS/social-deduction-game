@@ -3,4 +3,5 @@ python-socketio[asyncio]==5.11.0
 uvicorn==0.29.0
 pydantic==2.7.4
 openai==1.30.5
+itsdangerous==2.2.0
 python-dotenv
